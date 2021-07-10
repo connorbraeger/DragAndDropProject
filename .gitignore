@@ -1,0 +1,7 @@
+UNDERSTANDING-TS/node_modules
+UNDERSTANDING-TS/dist
+next-gen-01-starting-setup/node_modules
+next-gen-01-starting-setup/dist
+*/.DS_Store
+.DS_Store
+*/*/.DS_Store
